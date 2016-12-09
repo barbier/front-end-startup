@@ -1,3 +1,3 @@
 export default {
-	build: 'Broccoli-Webpack-Babel-Sass'
+  build: 'Broccoli-Webpack-Babel-Sass'
 }
