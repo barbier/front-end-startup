@@ -1,0 +1,25 @@
+{
+  "name": "broccoli-build-delete-this",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Brocfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.0.0",
+    "broccoli": "^0.16.2",
+    "broccoli-babel-transpiler": "5.3.0",
+    "broccoli-concat": "^0.0.13",
+    "broccoli-funnel": "^0.2.3",
+    "broccoli-merge-recursive": "^1.0.0",
+    "broccoli-merge-trees": "^0.2.1",
+    "broccoli-sass": "^0.7.0",
+    "broccoli-webpack": "^0.1.3",
+    "glob": "^7.0.5",
+    "source-map-loader": "^0.1.5"
+  }
+}
